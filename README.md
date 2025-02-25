@@ -58,9 +58,9 @@ Feel free to contact me for collaborations, freelance opportunities, or just to 
 - **Email**: [m.shahid538@yahoo.com](mailto:m.shahid538@yahoo.com)
 - **LinkedIn**: [Muhammad Shahid](https://linkedin.com/in/muhammad-shahid-07b52b47)
 - **Freelance Profiles**:
-  - [Upwork](#) (https://www.upwork.com/freelancers/~01c67bca5e4d376675)
-  - [Freelancer.com](#) (https://www.freelancer.com/u/MShahid538)
-  - [Fiverr](#) (https://www.fiverr.com/s/qDGxR05)
+  - [Upwork](https://www.upwork.com/freelancers/~01c67bca5e4d376675)
+  - [Freelancer.com](https://www.freelancer.com/u/MShahid538)
+  - [Fiverr](https://www.fiverr.com/s/qDGxR05)
 
 ---
 
