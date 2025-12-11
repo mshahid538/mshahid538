@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm **Muhammad Shahid**, a passionate and experienced **Software Engineer & AI Developer** and **Full-Stack, Generative AI, Agents & Tooling** specializing in cutting-edge technologies like **AI, Machine Learning, Large Language Models (LLMs), GPTs, OpenAI, Gemini, and DeepSeek**. I’m dedicated to building intelligent solutions that simplify and enhance human life.
+Welcome to my GitHub profile! I'm **Muhammad Shahid**, a passionate and experienced **Software Engineer & AI Developer** proficient in **Full-Stack, Generative AI, Agents & Tooling** and specialized in cutting-edge technologies like **AI, Machine Learning, Large Language Models (LLMs), GPTs, OpenAI, Gemini, and DeepSeek**. I’m dedicated to building intelligent solutions that simplify and enhance human life.
 
 ---
 
