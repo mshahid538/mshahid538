@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm **Muhammad Shahid**, a passionate and experienced **AI Developer** and **Full-Stack Developer** specializing in cutting-edge technologies like **AI, Machine Learning, Large Language Models (LLMs), GPTs, OpenAI, Gemini, and DeepSeek**. I’m dedicated to building intelligent solutions that simplify and enhance human life.
+Welcome to my GitHub profile! I'm **Muhammad Shahid**, a passionate and experienced **Software Engineer & AI Developer** and **Full-Stack, Generative AI, Agents & Tooling** specializing in cutting-edge technologies like **AI, Machine Learning, Large Language Models (LLMs), GPTs, OpenAI, Gemini, and DeepSeek**. I’m dedicated to building intelligent solutions that simplify and enhance human life.
 
 ---
 
@@ -34,7 +34,7 @@ I’m constantly expanding my skill set to stay ahead in the tech world. Current
 
 ### 👯 **Looking to Collaborate**
 
-I’m open to collaborating on **Full-Stack Development** projects, whether it’s **Frontend, Backend, or AI-driven solutions**. If you’re working on something exciting and need a dedicated developer, feel free to reach out!
+I’m open to collaborating on **Full-Stack Development - AI Development** projects, whether it’s **Frontend, Backend, or AI-driven solutions**. If you’re working on something exciting and need a dedicated developer, feel free to reach out!
 
 ---
 
@@ -42,7 +42,7 @@ I’m open to collaborating on **Full-Stack Development** projects, whether it�
 
 I’m available for freelance work on platforms like **Upwork, Freelancer.com, and Fiverr**. Whether you need:
 
-- **AI Development** (LLMs, GPTs, OpenAI, Gemini, DeepSeek)
+- **AI Development** (Generative AI, Agents, Tools)
 - **Machine Learning Models**
 - **Full-Stack Web Development**
 - **Custom Software Solutions**
