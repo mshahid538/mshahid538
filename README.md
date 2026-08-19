@@ -56,7 +56,7 @@ I’m here to help you bring your ideas to life. Let’s work together to create
 Feel free to contact me for collaborations, freelance opportunities, or just to chat about tech:
 
 - **Email**: <a href="mailto:m.shahid538@yahoo.com" target="_blank">m.shahid538@yahoo.com</a>
-- **LinkedIn**: <a href="https://linkedin.com/in/muhammad-shahid-07b52b47" target="_blank">Muhammad Shahid</a>
+- **LinkedIn**: <a href="https://www.linkedin.com/in/shahid-muhammad-07b52b47/" target="_blank">Muhammad Shahid</a>
 
 - **Freelance Profiles**:
   - <a href="https://www.upwork.com/freelancers/~01c67bca5e4d376675" target="_blank">Upwork</a>
